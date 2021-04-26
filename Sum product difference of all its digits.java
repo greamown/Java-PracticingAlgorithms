@@ -24,3 +24,9 @@ class Main {
     System.out.println("The different is:"+g);
   } 
 }
+
+
+
+
+
+// referance source form https://ithelp.ithome.com.tw/articles/10238892
